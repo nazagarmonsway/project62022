@@ -5,3 +5,5 @@ we can use display: inline-block to make inline lements accept width, mb, mt, et
 for dummy photos you can use lorem picsum
 
 1 em is 16px
+
+bootstrap container things

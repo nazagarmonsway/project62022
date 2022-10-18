@@ -5,9 +5,34 @@ nav.navigation{
     height: 120px;
     text-align: center;
     line-height: 120px;
-    background-color: coral;
+    background-color: rgb(250, 190, 168);
 }
 
 header{
     margin-bottom: 100px;
 }
+
+.image{
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 10px solid rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+
+.image-2{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    border: 10px dashed rgba(255,120,230,1);
+    border-radius: 10px;
+}
+
+.content{
+    float: left;
+    width: 50%;
+}
+.wrapper{
+    border: 5px solid #000;
+}
+
